@@ -1,0 +1,122 @@
+/* Font List */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200;300&display=swap');
+
+body {
+    background-color: rgb(22, 25, 43)
+}
+.navbar-text {
+    font-family: monospace;
+}
+.bg-custom {
+    background-color: rgb(22, 25, 43);
+}
+.custom-h1 {
+    font-family: 'Bungee Spice', cursive;
+    font-weight: 500;
+    color: #ffff;
+    font-size: 380%;
+    padding-top: 4rem;
+}
+
+.custom-p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 120%;
+    padding-bottom: 1rem;
+}
+
+.str-bs {
+    padding-top: 4rem;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+}
+.str-bs h2 {
+    font-size: 280%;
+}
+.home-el {
+    background-color: rgb(22, 25, 43);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 49, 68);
+    border-color: rgb(45, 49, 68);
+}
+.about-section {
+    font-family: 'Bungee Spice', cursive;
+    background-color: rgb(22, 25, 43);
+    padding-top: 3rem;
+}
+.about-section h2 {
+    text-align: center;
+    font-size: 280%;
+}
+.abt-dtl {
+    padding-top: 4rem;
+}
+.pg-abt {
+    font-size: 140%;
+    font-family: 'Catamaran', sans-serif;
+    color: white;
+    padding-bottom: 6rem;
+}
+.set-img {
+    padding-bottom: 2rem;
+}
+.card-body {
+    border:1px solid rgb(45, 49, 68);
+}
+.card1:hover {
+    background:#30324d;
+    border:1px solid rgb(45, 49, 68);
+  }
+
+  .card1:hover .list-group-item{
+    background:#30324d !important
+  }
+
+
+  
+
+
+  .card2:hover {
+    background:#30324d;
+    border:1px solid rgb(45, 49, 68);
+  }
+
+  .card2:hover .list-group-item{
+    background:#30324d !important
+  }
+
+
+  .card3:hover {
+    background:#30324d;
+    border:1px solid rgb(45, 49, 68);
+  }
+
+  .card3:hover .list-group-item{
+    background:#30324d !important
+  }
+
+
+  .card:hover .btn-outline-dark{
+    color:white;
+    background:#212529;
+  }
+.contact-pg {
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.contact-pg h2 {
+    font-size: 280%;
+}
+.lt-footer {
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 2rem;
+    background-color: rgb(22, 25, 43);
+}
